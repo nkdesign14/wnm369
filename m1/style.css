@@ -14,7 +14,7 @@ margin-top: 1.4em;
 font-size: 18px;
 }
 p{
-  font-size: 20px;
+font-size: 20px;
 }
 li {
 list-style: none;
@@ -53,6 +53,9 @@ width: auto;
 .logo2{
 height: 40px;
 width: auto;
-
+}
+.copy {
+margin-left: -95%;
+margin-top: 5%;
 }
 
