@@ -59,15 +59,21 @@ margin-left: -87%;
 margin-top: 5%;
 }
 .fb{
-  height: 30px;
-  margin-top: 7%;
+height: 30px;
+margin-top: 7%;
 }
 .ig{
-  height: 30px;
-  margin-top: 7%;
+height: 30px;
+margin-top: 7%;
 }
 .tw{
-  height: 30px;
-  margin-top: 7%;
+height: 30px;
+margin-top: 7%;
+}
+.pic2{
+width: 720px;
+height: 100%;
+margin-left: 10%;
+margin-top:5%;
 }
 
