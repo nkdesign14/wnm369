@@ -15,8 +15,10 @@ font-size: 18px;
 }
 
 li {
+list-style: none;
+font-style: none;
 margin-right: 55%;
-margin-left: 20%;
+margin-left: 50%;
 }
 .body {
 width: 80%;
@@ -29,6 +31,7 @@ font-size: 80%;
 .flex {
 display: flex;
 justify-content: space-between;
+list-style: none;
 }
 footer ul.flex {
 justify-content: end;
@@ -42,7 +45,8 @@ width: auto;
 height: 100%;
 }
 .logo1{
-  height: 80px;
-  width: auto;
+height: 60px;
+width: auto;
+
 }
 
