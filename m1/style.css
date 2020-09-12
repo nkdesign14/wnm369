@@ -1,35 +1,40 @@
 body {
-  padding: 25px 30px;
+padding: 25px 30px;
 }
 h1 {
-  margin-right: 10%;
+margin-right: 10%;
 }
 header {
-  display: flex;
+display: flex;
 }
 header ul.flex {
-  list-style: none;
-  padding: 0;
-  margin-top: 1.4em;
-  font-size: 18px;
+list-style: none;
+padding: 0;
+margin-top: 1.4em;
+font-size: 18px;
 }
 
 li {
-  margin-right: 50%;
+margin-right: 50%;
 }
 .body {
-  width: 80%;
-  margin: 0 auto;
+width: 80%;
+margin: 0 auto;
 }
 footer {
-    margin-top: 5%;
-    font-size: 80%;
+margin-top: 5%;
+font-size: 80%;
 }
 .flex {
-    display: flex;
-    justify-content: space-between;
+display: flex;
+justify-content: space-between;
 }
 footer ul.flex {
-    justify-content: end;
-    list-style: none;
-    padding: 0;
+justify-content: end;
+list-style: none;
+padding: 0;
+}
+.pic1{
+
+}
+
