@@ -81,3 +81,7 @@ width: 100%;
 position: relative;
 display: flex;
 }
+form {
+margin-top: 5%;
+margin-right: -14%;
+}

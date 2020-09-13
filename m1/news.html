@@ -63,7 +63,10 @@ clear: both;
 <div class="flex">
 <a href="index.html">
 <img class="logo2" src="logo/logo.svg" alt="logo"></a>
-
+<form onsubmit="event.preventDefault();" role="search">
+<input id="search" type="search" placeholder="Search..." autofocus required />
+<button type="submit">Go</button>    
+</form>
 <div class="copy">&copy;2020 Lexington.com All Rights Recieved.</div>
 <div class="nav">
 <ul class="flex">
